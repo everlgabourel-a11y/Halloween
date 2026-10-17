@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "ELREMOTE",
+  "short_name": "ELREMOTE",
+  "description": "View and control your Windows PC through your configured ELREMOTE relay.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#080d18",
+  "theme_color": "#080d18",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
